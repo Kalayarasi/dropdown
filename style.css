@@ -9,6 +9,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-weight: 500;
+     overflow-x: hidden;
 }
 .menu{
     background-color: teal;
